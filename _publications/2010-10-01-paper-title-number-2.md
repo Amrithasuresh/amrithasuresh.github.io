@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "An *In silco approach* to bioremediation: Laccase as a case study"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2008-01-01-insilico-bioremediation
+excerpt: ''
+date: 2008-01-01
+venue: 'Journal of Molecular Graphics and Modelling'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1093326307000915'
+citation: 'Panneer Selvam Suresh, Anil Kumar, Rita Kumar, Ved Pal Singh.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
+"An Insilco approach to bioremediation: Laccase as a case study."
+PS Suresh, A Kumar, R Kumar, VP Singh - <i> Journal of Molecular Graphics and Modelling</i>, 2008.
