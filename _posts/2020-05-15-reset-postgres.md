@@ -8,11 +8,11 @@ tags:
   - Stackoverflow
 ---
 
-  sudo su postgres
-  psql
-  drop database database_test;
-  create database database_test with owner suresh;
-  \q
-  exit
+    sudo su postgres
+    psql
+    drop database database_test;
+    create database database_test with owner suresh;
+    \q
+    exit
 
-  Run migrations - python manage.py migrate
+    python manage.py migrate
