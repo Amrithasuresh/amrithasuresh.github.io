@@ -1,5 +1,5 @@
 ---
-title: 'How to delete a record in Django models'
+title: 'How to delete a record in Django models?'
 date: 2020-05-16
 permalink: /posts/2020/05/blog-post-2/
 tags:
