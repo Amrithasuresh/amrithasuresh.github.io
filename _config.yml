@@ -137,6 +137,7 @@ exclude:
   - README
   - Rakefile
   - assets/js/_main.js
+  - assets/js/bug.js
   - assets/js/plugins
   - assets/js/vendor
   - config
