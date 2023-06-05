@@ -2,8 +2,8 @@
 title: "Bacteria-derived pesticidal proteins active against hemipteran pests"
 collection: publications
 permalink: /publication/2022-10-13-JIP-review
-date: 2017-10-09
-venue: 'FEBS-open-bio'
+date: 2022-10-13
+venue: 'JIP review'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/29123983/'
 citation: Ruchir Mishra, Arinder K Arora, Jaime Jimenez, Clebson dos Santos Tavares, Rahul Banerjee, Suresh Panneerselvam, Bryony C Bonning ",Bacteria-derived pesticidal proteins active against hemipteran pests, Journal of Invertebrate Pathology 2022/10/13'
 ---
